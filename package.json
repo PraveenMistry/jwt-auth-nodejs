@@ -1,0 +1,27 @@
+{
+  "name": "jwt-auth-nodejs",
+  "version": "1.0.0",
+  "description": "json web token ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "JWT",
+    "auth",
+    "node",
+    "express",
+    "mongoose"
+  ],
+  "author": "Praveen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
